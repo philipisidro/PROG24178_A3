@@ -11,7 +11,7 @@ import javafx.scene.layout.GridPane;
 import javafx.stage.Stage;
 
 
-public class Main extends Application {
+public class Assignment_4 extends Application {
 
 	Button btnDivision;
 	Button btnMultiply;
